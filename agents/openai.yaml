@@ -1,0 +1,5 @@
+interface:
+  display_name: "嘻哈地质人公众号写作"
+  short_description: "从科学论文生成证据严谨、逐图解读的固定格式公众号推文"
+  brand_color: "#3D6EAE"
+  default_prompt: "使用 $wechat-geoscience-writer 从我的文献库筛选论文，确认选题后按固定模板生成公众号推文。"
